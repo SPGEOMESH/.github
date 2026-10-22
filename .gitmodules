@@ -1,0 +1,18 @@
+[submodule "Loba/wrk/latest"]
+	path = Loba/wrk/latest
+	url = https://github.com/SPGEOMESH/Loba
+[submodule "Kiwi/wrk/latest"]
+	path = Kiwi/wrk/latest
+	url = https://github.com/SPGEOMESH/Kiwi
+[submodule "Physics/wrk/latest"]
+	path = Physics/wrk/latest
+	url = https://github.com/SPGEOMESH/Physics
+[submodule "Fields/wrk/latest"]
+	path = Fields/wrk/latest
+	url = https://github.com/SPGEOMESH/Fields
+[submodule "CubeSphere/wrk/latest"]
+	path = CubeSphere/wrk/latest
+	url = https://github.com/SPGEOMESH/CubeSphere
+[submodule "SPRiemann/wrk/latest"]
+	path = SPRiemann/wrk/latest
+	url = https://github.com/SPGEOMESH/SPRiemann
